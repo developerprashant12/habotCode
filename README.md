@@ -1,5 +1,32 @@
 # Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/developerprashant12/habotCode).
+
+## Table of Contents
+- [Installation](#installation)
+- [Available Scripts](#available-scripts)
+  - [Node Version (21.0.0)](#node-version)
+  - [npm install](#npm-install)
+  - [npm start](#npm-start)
+  - [npm test](#npm-test)
+  - [npm run build](#npm-run-build)
+  - [npm run eject](#npm-run-eject)
+- [Learn More](#learn-more)
+
+## Installation
+
+To get started with this project, ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed. Then, clone the repository and install the dependencies:
+
+```bash
+git clone <https://github.com/developerprashant12/habotCode>
+cd <project-directory>
+npm install
+
+
+######################################################### New Data ##########################################################
+
+# Getting Started with Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

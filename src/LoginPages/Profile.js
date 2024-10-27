@@ -93,6 +93,17 @@ const Profile = () => {
               https://github.com/developerprashant12
             </a>
             <br />
+            <strong>Website Code:</strong>{" "}
+            <a
+              href="https://github.com/developerprashant12/habotCode"
+              target="_blank"
+              rel="noreferrer"
+              className="text-blue-600 underline"
+            >
+              https://github.com/developerprashant12/habotCode
+            </a>
+            <br />
+            
             <strong>Deploy Link:</strong>{" "}
             <a
               href="https://habotsite.netlify.app/"
