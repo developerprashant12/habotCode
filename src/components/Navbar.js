@@ -24,7 +24,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="bg-white text-black py-4 px-6 shadow-md flex justify-between items-center z-20">
+    <nav className="bg-white text-black py-4 px-6 shadow-md flex justify-between items-center z-20 w-full">
       {/* Logo */}
       <Link to="/" className="flex items-center">
         <img
